@@ -1,0 +1,17 @@
+algorithm,n,time_ns,maxDepth
+MergeSort,100,30080,3
+QuickSort,100,43500,3
+DeterministicSelect,100,49180,4
+ClosestPair,100,1094620,6
+MergeSort,1000,210760,6
+QuickSort,1000,115340,5
+DeterministicSelect,1000,176740,8
+ClosestPair,1000,1992740,9
+MergeSort,5000,396300,9
+QuickSort,5000,382300,7
+DeterministicSelect,5000,482680,10
+ClosestPair,5000,8709560,11
+MergeSort,10000,2261900,10
+QuickSort,10000,806520,7
+DeterministicSelect,10000,310780,10
+ClosestPair,10000,33214700,12
