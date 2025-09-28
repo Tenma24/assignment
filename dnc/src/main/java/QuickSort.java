@@ -1,3 +1,5 @@
+// QuickSort: Hoare partition, randomized pivot, recurse smaller-first (iterate larger)
+
 import java.util.Random;
 
 public class QuickSort {
@@ -36,3 +38,4 @@ public class QuickSort {
 
     public int getMaxDepth() { return maxDepth; }
 }
+
