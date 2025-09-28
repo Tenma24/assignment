@@ -20,6 +20,8 @@
 ---
 
 ## Metrics
+Averaged over TRIALS runs per n; CSV = metrics.csv (algorithm,n,time_ns,maxDepth).
+
 - **Execution time (ns)**
 - **Recursion depth**
 
@@ -31,5 +33,6 @@ Saved to `metrics.csv` in format:
 
 ### Depth vs Input Size
 ![Depth vs n](dnc/plots/depth_vs_n.png)
+
 
 
