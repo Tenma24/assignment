@@ -1,3 +1,5 @@
+// MergeSort: reusable buffer + insertion cutoff; early-exit if a[m] <= a[m+1]
+
 import java.util.Arrays;
 
 public class MergeSort {
@@ -42,3 +44,4 @@ public class MergeSort {
 
     public int getMaxDepth() { return maxDepth; }
 }
+
