@@ -24,3 +24,12 @@
 - **Recursion depth**
 
 Saved to `metrics.csv` in format:
+## Results
+
+### Time vs Input Size
+![Time vs n](dnc/plots/time_vs_n.png)
+
+### Depth vs Input Size
+![Depth vs n](dnc/plots/depth_vs_n.png)
+
+
