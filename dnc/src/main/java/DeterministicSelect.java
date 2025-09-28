@@ -1,3 +1,5 @@
+// Deterministic Select (MoM5): groups of 5, median-of-medians pivot, in-place partition
+
 public class DeterministicSelect {
     private int maxDepth;
 
@@ -60,3 +62,4 @@ public class DeterministicSelect {
 
     public int getMaxDepth() { return maxDepth; }
 }
+
