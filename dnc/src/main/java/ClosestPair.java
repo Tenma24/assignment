@@ -1,3 +1,5 @@
+// Closest Pair: D&C; maintain Py; strip check with ≤7 neighbors per point
+
 import java.util.*;
 
 public class ClosestPair {
@@ -61,3 +63,4 @@ public class ClosestPair {
 
     public int getMaxDepth() { return maxDepth; }
 }
+
